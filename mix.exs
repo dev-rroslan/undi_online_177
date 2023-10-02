@@ -40,7 +40,7 @@ defmodule UndiOnline.MixProject do
       {:flop_phoenix, "~> 0.21.1"},
       {:guardian, "~> 2.3.1"},
       {:premailex, "~> 0.3.18"},
-      {:oban, "~> 2.15.4"},
+      {:oban, "~> 2.16.1"},
       {:bcrypt_elixir, "~> 3.1"},
       {:credo, "~> 1.7.0", only: [:dev, :test], runtime: false},
       {:sobelow, "~> 0.13.0", only: [:dev, :test], runtime: false},
