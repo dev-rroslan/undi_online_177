@@ -64,7 +64,7 @@ defmodule UndiOnline.MixProject do
       {:gettext, "~> 0.20"},
       {:jason, "~> 1.2"},
       {:plug_cowboy, "~> 2.5"},
-      {:saas_kit, "1.0.0", only: :dev},
+      {:saas_kit, "1.0.4", only: :dev},
     ]
   end
 
